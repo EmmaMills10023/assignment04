@@ -1,1 +1,2 @@
-# assignment04
+# assignment04Title: Assignment 04
+Author: Emma Mills
